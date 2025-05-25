@@ -1,3 +1,3 @@
 ## About Vendo Project
 
-Core E-commerce Test Project
+Multi Vendors Core E-commerce Project
